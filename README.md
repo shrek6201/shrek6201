@@ -1,5 +1,5 @@
 # 💫 About Me:
-im currently working on my Masters Graduation in Computer Applications.<br>im looking to work with software developers and engineers.<br>im looking for help with Artificial Intelligence and Machine Learning.<br>im currently learning Adv. Java, Python, Angular, and some more frontend and backend languages.
+i have completed my Masters in Computer Applications with first class with distinction.<br>im pursuing a second masters in data analytics from Dublin City University, Ireland.<br>im looking for help with Artificial Intelligence and Machine Learning.<br>im currently learning Big Data, Python, Adv. Data Structures, and some analytical tools like PowerBI, tableau etc.<br>im excited to collaborate and work with data analysts and industry professionals.
 
 
 ## 🌐 Socials:
