@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing a second Masters in Data Analytics from Dublin City University, Ireland.<br>I'm looking for an opportunity to work with experienced Data Analysts and industry professionals.<br>I'm looking for help with Big Data, Adv. Data Structures, Power BI, Tableau<br>I'm currently learning Data Analytics using Python, SQL, MS Excel
+I'm have recently completed a second Masters in Data Analytics from Dublin City University, Ireland.<br>I'm looking for an opportunity to work with experienced Data Analysts and industry professionals.<br>I'm looking for help with Big Data, Adv. Data Structures, Power BI, Tableau<br>I'm currently learning Data Analytics using Python, SQL, MS Excel
 
 
 ## 🌐 Socials:
